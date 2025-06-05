@@ -1,0 +1,2 @@
+texto = "Este é um arquivo novo da branch nova a ser incluído no trunk."
+print(texto)
