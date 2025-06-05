@@ -1,1 +1,1 @@
-print("Hello World! alterado")
+print("Hello World utilizando o VS Code")

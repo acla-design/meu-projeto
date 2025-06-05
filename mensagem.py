@@ -1,2 +1,2 @@
-mensagem = "Testes modificados de como utilizar o git no VS Code."
+mensagem = "Testes de como utilizar arquivos no git no VS Code."
 print(mensagem)
